@@ -15,10 +15,21 @@ This project focuses on analyzing e-commerce customer data to understand purchas
 - Power BI
 
 ## 📊 Key Insights
-- Top customers contribute major revenue
-- Repeat customers are more valuable
-- Sales vary across different months
-- Certain products perform better than others
+
+| Metric | Value |
+|--------|-------|
+| 💰 Total Revenue | ₹34,53,464 |
+| 🛒 Average Order Value | ₹6,906.93 |
+| 🔁 Repeat Customers | 95 |
+| 🆕 New Customers | 3 |
+| 📅 Peak Sales Month | August |
+| 🏆 Best Selling Product | Phone |
+
+### 💡 Business Findings
+- **95 out of 98 customers** are repeat buyers — showing excellent customer loyalty
+- **Phone** is the top revenue-generating product
+- **August** sees the highest sales — marketing campaigns should target this month
+- Top 10 customers contribute a major portion of total revenue
 
 ## 📁 Files Included
 - Dataset (CSV)
