@@ -31,6 +31,9 @@ This project focuses on analyzing e-commerce customer data to understand purchas
 - Product-wise Analysis
 - Top Customers
 - Interactive Filters
+- 
+## 📸 Dashboard Preview
+![Dashboard](Screenshot%202026-05-16%20104909.png)
 
 ## 💡 Conclusion
 This project helps businesses understand customer behavior and improve decision-making using data-driven insights.
